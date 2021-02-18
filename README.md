@@ -1,4 +1,4 @@
 #  Эксплутационная практика
 ##  Старшов Артём 
 ##  ИСР 1.1
-http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Fartemstarshov%2Fivt_gr2_3%2Fblob%2Fmain%2F%25D0%25A1%25D1%2582%25D0%25B0%25D1%2580%25D1%2588%25D0%25BE%25D0%25B2%2520%25D0%2590%25D1%2580%25D1%2582%25D1%2591%25D0%25BC%2520%25D0%2593%25D1%25802_3%2520%25D0%2598%25D0%25A1%25D0%25A0%25201.1.pdf&4&0
+(https://github.com/artemstarshov/ivt_gr2_3/blob/main/%D0%A1%D1%82%D0%B0%D1%80%D1%88%D0%BE%D0%B2%20%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%93%D1%802_3%20%D0%98%D0%A1%D0%A0%201.1.pdf)
